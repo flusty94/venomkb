@@ -1,0 +1,7 @@
+V1.0
+Initial Release
+
+25/1/17
+
+- Updated fanart.jpg
+- Updated icon.png
